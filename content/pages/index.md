@@ -14,7 +14,7 @@ sections:
         label: ARTWORKS (BY YEAR)
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: CV
         url: ''
       - type: Label
         label: Next.js
