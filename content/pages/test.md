@@ -13,8 +13,6 @@ sections:
 
       #### EDUCATION
 
-
-
       | 2027 | EdD - Teachers College, Columbia University, New York, NY       |
       | ---- | --------------------------------------------------------------- |
       | 2021 | Learning Design Certificate - New York University, New York, NY |
