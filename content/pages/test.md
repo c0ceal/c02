@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-b
     variant: variant-a
-    title: ''
+    title: CV
     subtitle: Corey Cedric Allen
     text: |+
       b. 1992, Sarasota, FL
