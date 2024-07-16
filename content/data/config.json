@@ -3,7 +3,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Corey Cedric Allen",
         "isTitleVisible": true,
         "primaryLinks": [],
