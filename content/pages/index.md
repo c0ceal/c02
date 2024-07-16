@@ -5,7 +5,7 @@ colors: colors-b
 sections:
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: NAVIGATION
     items:
       - type: Label
         label: ABOUT
