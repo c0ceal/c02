@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "About",
                 "altText": "",
-                "url": "/about",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
