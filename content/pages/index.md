@@ -5,7 +5,7 @@ colors: colors-b
 sections:
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: ''
     images: []
     colors: colors-b
     spacing: 16
