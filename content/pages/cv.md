@@ -7,7 +7,9 @@ sections:
     variant: variant-a
     title: ''
     text: |
-      `<b>Corey Allen</b>`
+      `<html>`
+
+      `<b> corey </b>`
 
       sdasdad
     elementId: ''
