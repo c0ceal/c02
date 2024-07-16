@@ -28,5 +28,5 @@ sections:
       text:
         textAlign: left
 addTitleSuffix: true
-colors: colors-e
+colors: colors-b
 ---
