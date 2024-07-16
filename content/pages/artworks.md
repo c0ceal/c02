@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Artwork
+title: Artworks
 sections:
   - type: TextSection
     colors: colors-f
