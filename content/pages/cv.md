@@ -15,23 +15,15 @@ sections:
       ## EDUCATION
 
       2027
-
-
       EdD - Teachers College, Columbia University, New York, NY
 
       2019
-
-
       MFA - Hunter College, CUNY, New York, NY
 
       2015
-
-
       BFA - Ringling College of Art + Design, Sarasota, FL
 
       2014
-
-
       AICAD New York Studio Residency Program, New York, NY
 
       ## SELECT SOLO/TWO-PERSON EXHIBITIONS
