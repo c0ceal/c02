@@ -10,12 +10,13 @@ sections:
     text: |+
       b. 1992, Sarasota, FL
 
-
       Lives and works in Queens, NY
 
 
 
       #### EDUCATION
+
+
 
       | 2027 | EdD - Teachers College, Columbia University, New York, NY       |
       | ---- | --------------------------------------------------------------- |
