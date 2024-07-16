@@ -20,9 +20,6 @@ sections:
         label: CONTACT
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
