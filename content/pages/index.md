@@ -17,7 +17,7 @@ sections:
         label: CV
         url: ''
       - type: Label
-        label: Next.js
+        label: CONTACT
         url: ''
       - type: Label
         label: Netlify
