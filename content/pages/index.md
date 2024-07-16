@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
