@@ -3,7 +3,7 @@ type: PageLayout
 title: Empty page
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: ''
     subtitle: ''
