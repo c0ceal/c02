@@ -6,7 +6,18 @@
         "isSticky": true,
         "title": "Corey Cedric Allen",
         "isTitleVisible": true,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://read.cv/callen",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [],
         "styles": {
             "self": {
