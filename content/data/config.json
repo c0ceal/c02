@@ -5,7 +5,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Corey Cedric Allen",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [],
         "socialLinks": [],
         "styles": {
