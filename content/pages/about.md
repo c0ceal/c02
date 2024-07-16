@@ -3,5 +3,5 @@ type: PageLayout
 title: About
 sections: []
 addTitleSuffix: true
-colors: colors-c
+colors: colors-b
 ---
