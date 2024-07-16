@@ -6,7 +6,38 @@
         "isSticky": true,
         "title": "Corey Cedric Allen",
         "isTitleVisible": true,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "CV",
+                "altText": "",
+                "url": "https://read.cv/callen",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Artworks",
+                "altText": "",
+                "url": "/artworks",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [],
         "styles": {
             "self": {
