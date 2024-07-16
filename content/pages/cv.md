@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: |+
+    text: |
       # COREY CEDRIC ALLEN
 
       b. 1992, Sarasota, FL
@@ -14,15 +14,17 @@ sections:
 
       ## EDUCATION
 
-      2027     EdD - Teachers College, Columbia University, New York, NY
+      2027
+      EdD - Teachers College, Columbia University, New York, NY
 
-      2019     MFA - Hunter College, CUNY, New York, NY
+      2019     
+      MFA - Hunter College, CUNY, New York, NY
 
-      2015     BFA - Ringling College of Art + Design, Sarasota, FL
+      2015     
+      BFA - Ringling College of Art + Design, Sarasota, FL
 
-      2014     AICAD New York Studio Residency Program, New York, NY
-
-
+      2014     
+      AICAD New York Studio Residency Program, New York, NY
 
       ## SELECT SOLO/TWO-PERSON EXHIBITIONS
 
@@ -32,10 +34,9 @@ sections:
       2013      Cypresses, Crossley Gallery
       Sarasota, FL/ December 3
 
-                    CORTEX, Crossley Gallery
-                    Sarasota, FL/ October 4-­13
-                    Installation made in collaboration with Mackenzie Vartanian
-
+      CORTEX, Crossley Gallery
+                Sarasota, FL/ October 4-­13
+                Installation made in collaboration with Mackenzie Vartanian
     elementId: ''
     styles:
       self:
