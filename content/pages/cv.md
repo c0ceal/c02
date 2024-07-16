@@ -12,7 +12,6 @@ sections:
       b. 1992, Sarasota, FL
       Lives and works in Queens, NY
 
-
       ## EDUCATION
 
       2027     EdD - Teachers College, Columbia University, New York, NY
@@ -23,6 +22,19 @@ sections:
 
       2014     AICAD New York Studio Residency Program, New York, NY
 
+
+
+      ## SELECT SOLO/TWO-PERSON EXHIBITIONS
+
+      2022      Double Angel, Randos Gallery
+      Brooklyn, NY/ June 4-5
+
+      2013      Cypresses, Crossley Gallery
+      Sarasota, FL/ December 3
+
+                    CORTEX, Crossley Gallery
+                    Sarasota, FL/ October 4-­13
+                    Installation made in collaboration with Mackenzie Vartanian
 
     elementId: ''
     styles:
