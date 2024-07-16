@@ -17,13 +17,13 @@ sections:
       2027
       EdD - Teachers College, Columbia University, New York, NY
 
-      2019     
+      2019
       MFA - Hunter College, CUNY, New York, NY
 
-      2015     
+      2015
       BFA - Ringling College of Art + Design, Sarasota, FL
 
-      2014     
+      2014
       AICAD New York Studio Residency Program, New York, NY
 
       ## SELECT SOLO/TWO-PERSON EXHIBITIONS
@@ -35,8 +35,8 @@ sections:
       Sarasota, FL/ December 3
 
       CORTEX, Crossley Gallery
-                Sarasota, FL/ October 4-­13
-                Installation made in collaboration with Mackenzie Vartanian
+      Sarasota, FL/ October 4-­13
+      Installation made in collaboration with Mackenzie Vartanian
     elementId: ''
     styles:
       self:
