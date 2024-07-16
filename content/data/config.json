@@ -29,7 +29,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "About",
                 "altText": "",
                 "url": "/about",
                 "showIcon": false,
