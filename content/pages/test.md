@@ -3,7 +3,7 @@ type: PageLayout
 title: CV
 sections:
   - type: TextSection
-    colors: colors-b
+    colors: colors-f
     variant: variant-a
     title: CV
     subtitle: Corey Cedric Allen
