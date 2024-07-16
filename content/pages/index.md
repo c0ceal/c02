@@ -11,7 +11,7 @@ sections:
         label: ABOUT
         url: ''
       - type: Label
-        label: React
+        label: ARTWORKS (BY YEAR)
         url: ''
       - type: Label
         label: Microsoft Office
