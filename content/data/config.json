@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Artworks",
                 "altText": "",
                 "url": "/artworks",
                 "showIcon": false,
