@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: CV
+title: Artworks
 sections:
   - type: TextSection
     colors: colors-f
