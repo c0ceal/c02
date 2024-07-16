@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: ''
     text: |
-      # COREY CEDRIC ALLEN
+      ###### COREY CEDRIC ALLEN
 
       b. 1992, Sarasota, FL
       Lives and works in Queens, NY
