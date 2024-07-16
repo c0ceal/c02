@@ -9,7 +9,11 @@ sections:
     subtitle: ''
     text: |+
       b. 1992, Sarasota, FL
+
+
       Lives and works in Queens, NY
+
+
 
       #### EDUCATION
 
