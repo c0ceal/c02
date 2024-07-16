@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: CV
 sections:
   - type: TextSection
     colors: colors-b
