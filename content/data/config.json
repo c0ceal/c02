@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "Corey Cedric Allen",
         "isTitleVisible": true,
