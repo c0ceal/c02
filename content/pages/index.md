@@ -6,12 +6,7 @@ sections:
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
+    images: []
     colors: colors-b
     spacing: 16
     columns: 2
