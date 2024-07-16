@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images: []
     colors: colors-b
