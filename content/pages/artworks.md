@@ -63,7 +63,7 @@ sections:
     subtitle: Artworks by medium or other subject matter
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: DRAWING
         url: ''
       - type: Label
         label: React
