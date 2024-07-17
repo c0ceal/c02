@@ -101,4 +101,5 @@ sections:
         textAlign: left
 addTitleSuffix: true
 colors: colors-b
+metaTitle: ''
 ---
