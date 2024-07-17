@@ -72,7 +72,7 @@ sections:
         label: VIDEO - NEW MEDIA
         url: ''
       - type: Label
-        label: Next.js
+        label: MFA THESIS
         url: ''
       - type: Label
         label: Netlify
