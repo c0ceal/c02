@@ -19,7 +19,7 @@ sections:
         label: '2021'
         url: ''
       - type: Label
-        label: Netlify
+        label: '2020'
         url: ''
       - type: Label
         label: Pancakes
