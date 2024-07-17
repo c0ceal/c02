@@ -3,7 +3,7 @@ type: PostLayout
 title: ''
 date: '2024-07-17'
 excerpt: ''
-addTitleSuffix: true
+addTitleSuffix: false
 colors: colors-b
 media:
   type: ImageBlock
@@ -11,6 +11,7 @@ media:
   altText: 'Freestanding Punching Bags, 2020'
   caption: 'Freestanding Punching Bags, 2020 / Oil pastel on paper'
   elementId: ''
+metaTags: []
 ---
 *Freestanding Punching Bags*, 2020
 
