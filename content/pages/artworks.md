@@ -101,5 +101,5 @@ sections:
         textAlign: left
 addTitleSuffix: true
 colors: colors-b
-metaTitle: '2016'
+metaTitle: ''
 ---
