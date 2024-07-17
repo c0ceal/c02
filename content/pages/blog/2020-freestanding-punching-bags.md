@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Freestanding Punching Bags
+title: ''
 date: '2024-07-17'
 excerpt: ''
 addTitleSuffix: true
