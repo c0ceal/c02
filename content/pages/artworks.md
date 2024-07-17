@@ -30,6 +30,9 @@ sections:
       - type: Label
         label: '2017'
         url: ''
+      - type: Label
+        label: '2016'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
