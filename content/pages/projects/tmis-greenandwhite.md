@@ -6,7 +6,7 @@ client: ''
 description: '"Touch Me I’m Sick (Green and White)" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/149246891448.jpg
+  url: /images/149246871343.jpg
   altText: ''
   caption: ''
   elementId: ''
