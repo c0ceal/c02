@@ -59,7 +59,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: ALTERNATIVE TAGS
+    title: OTHER TAGS
     subtitle: Artworks by medium or other subject matter
     items:
       - type: Label
