@@ -15,7 +15,10 @@ media:
   elementId: ''
 bottomSections: []
 addTitleSuffix: false
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 colors: colors-b
 ---
 *Touch Me I’m Sick (White)*, 2016
