@@ -69,7 +69,7 @@ sections:
         label: SCULPTURE
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: VIDEO - NEW MEDIA
         url: ''
       - type: Label
         label: Next.js
