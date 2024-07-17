@@ -2,7 +2,7 @@
 type: PostLayout
 title: ''
 date: '2024-07-17'
-excerpt: 'Freestanding Punching Bags, 2020Oil pastel on paper'
+excerpt: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
