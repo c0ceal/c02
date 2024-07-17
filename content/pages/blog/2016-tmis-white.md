@@ -17,7 +17,7 @@ bottomSections: []
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: ''
     content: ''
 colors: colors-b
 ---
