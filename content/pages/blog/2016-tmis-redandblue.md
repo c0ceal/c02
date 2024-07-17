@@ -7,7 +7,9 @@ media:
   type: ImageBlock
   url: /images/2016-tmis-redandblue.jpg
   altText: 'Freestanding Punching Bags, 2020'
-  caption: 'Freestanding Punching Bags, 2020 / Oil pastel on paper'
+  caption: >-
+    Touch Me I’m Sick (Blue and Red), 2016Vintage football jersey, thread,
+    nails, unbleached muslin
   elementId: ''
 bottomSections: []
 addTitleSuffix: false
