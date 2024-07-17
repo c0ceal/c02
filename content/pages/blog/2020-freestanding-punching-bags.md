@@ -11,10 +11,7 @@ media:
   altText: 'Freestanding Punching Bags, 2020'
   caption: 'Freestanding Punching Bags, 2020 / Oil pastel on paper'
   elementId: ''
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 ---
 *Freestanding Punching Bags*, 2020
 
