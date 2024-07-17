@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ''
 date: '2016-01-01'
-client: '"Touch Me I’m Sick (White)" [2016]'
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
