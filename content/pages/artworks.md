@@ -22,13 +22,10 @@ sections:
         label: '2020'
         url: ''
       - type: Label
-        label: Pancakes
+        label: '2019'
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
-        label: Swift
+        label: '2018'
         url: ''
     colors: colors-f
     elementId: ''
