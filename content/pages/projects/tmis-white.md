@@ -21,3 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
+Vintage football jersey, thread, nails, unbleached muslin
