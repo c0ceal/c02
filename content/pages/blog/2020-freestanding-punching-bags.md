@@ -4,7 +4,7 @@ title: ''
 date: '2024-07-17'
 excerpt: ''
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
