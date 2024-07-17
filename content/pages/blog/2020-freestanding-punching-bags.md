@@ -14,7 +14,7 @@ backgroundImage:
   opacity: 100
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/tumblr_289bdd638ab770be36d5b49413a40f1a_b0b2076b_1280.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
