@@ -21,6 +21,6 @@ metaTags:
     content: '2016'
 colors: colors-b
 ---
-*Touch Me I’m Sick (White)*, 2016
+*Touch Me I’m Sick (Green and White)*, 2016
 
 Vintage football jersey, thread, nails, unbleached muslin
