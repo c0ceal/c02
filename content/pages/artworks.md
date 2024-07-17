@@ -80,6 +80,9 @@ sections:
       - type: Label
         label: BFA-THESIS
         url: ''
+      - type: Label
+        label: DOUBLE-ANGEL-2022
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
