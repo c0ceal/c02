@@ -7,7 +7,7 @@ sections:
     subtitle: Artworks by year
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: '2024'
         url: ''
       - type: Label
         label: React
