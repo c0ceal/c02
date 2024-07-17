@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ''
-date: '2024-07-17'
+date: ''
 excerpt: ''
 addTitleSuffix: true
 colors: colors-b
