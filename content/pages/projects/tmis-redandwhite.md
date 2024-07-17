@@ -6,7 +6,7 @@ client: ''
 description: '"Touch Me I’m Sick (Red II)" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/149205446418.jpg
+  url: /images/149205547038.jpg
   altText: ''
   caption: ''
   elementId: ''
