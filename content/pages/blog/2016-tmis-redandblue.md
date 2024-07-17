@@ -18,6 +18,6 @@ addTitleSuffix: false
 metaTags: []
 colors: colors-b
 ---
-*Freestanding Punching Bags*, 2020
+*Touch Me I’m Sick (Blue and Red)*, 2016
 
-Oil pastel on paper
+Vintage football jersey, thread, nails, unbleached muslin
