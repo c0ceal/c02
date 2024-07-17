@@ -4,7 +4,7 @@ title: Artworks
 sections:
   - type: LabelsSection
     title: CHRONOLOGICAL
-    subtitle: The section subtitle
+    subtitle: Artworks by year
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
