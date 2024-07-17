@@ -69,6 +69,9 @@ sections:
         label: SCULPTURE
         url: ''
       - type: Label
+        label: FIBER-TEXTILE
+        url: ''
+      - type: Label
         label: VIDEO-NEW_MEDIA
         url: ''
       - type: Label
@@ -76,9 +79,6 @@ sections:
         url: ''
       - type: Label
         label: BFA-THESIS
-        url: ''
-      - type: Label
-        label: FIBER-TEXTILE
         url: ''
     colors: colors-f
     elementId: ''
