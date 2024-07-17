@@ -3,7 +3,7 @@ type: PostLayout
 title: ''
 date: '2024-07-17'
 excerpt: ''
-addTitleSuffix: true
+addTitleSuffix: false
 colors: colors-b
 media:
   type: ImageBlock
