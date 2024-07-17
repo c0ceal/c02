@@ -33,6 +33,9 @@ sections:
       - type: Label
         label: '2016'
         url: ''
+      - type: Label
+        label: '2015'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
