@@ -2,21 +2,39 @@
 type: PageLayout
 title: Artworks
 sections:
-  - type: TextSection
+  - type: LabelsSection
+    title: CHRONOLOGICAL
+    subtitle: Artworks by year
+    items:
+      - type: Label
+        label: '2024'
+        url: ''
+      - type: Label
+        label: '2023'
+        url: ''
+      - type: Label
+        label: '2022'
+        url: ''
+      - type: Label
+        label: '2021'
+        url: ''
+      - type: Label
+        label: '2020'
+        url: ''
+      - type: Label
+        label: '2019'
+        url: ''
+      - type: Label
+        label: '2018'
+        url: ''
     colors: colors-f
-    variant: variant-a
-    title: This in an empty page
-    subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
     elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-12
+          - pt-36
           - pb-36
           - pl-4
           - pr-4
@@ -24,8 +42,6 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
-      text:
         textAlign: left
 addTitleSuffix: true
 colors: colors-b
