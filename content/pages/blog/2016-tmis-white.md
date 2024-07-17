@@ -18,7 +18,7 @@ addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: ''
-    content: ''
+    content: '2016'
 colors: colors-b
 ---
 *Touch Me I’m Sick (White)*, 2016
