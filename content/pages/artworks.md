@@ -13,7 +13,7 @@ sections:
         label: '2023'
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: '2022'
         url: ''
       - type: Label
         label: Next.js
