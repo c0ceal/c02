@@ -2,9 +2,7 @@
 type: PostLayout
 title: Freestanding Punching Bags
 date: '2024-07-17'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
