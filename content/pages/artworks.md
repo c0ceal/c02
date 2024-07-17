@@ -32,7 +32,7 @@ sections:
         url: ''
       - type: Label
         label: '2016'
-        url: /tagged/2016
+        url: ''
       - type: Label
         label: '2015'
         url: ''
