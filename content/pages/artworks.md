@@ -78,7 +78,7 @@ sections:
         label: BFA THESIS
         url: ''
       - type: Label
-        label: Swift
+        label: FIBER-TEXTILE
         url: ''
     colors: colors-f
     elementId: ''
