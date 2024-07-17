@@ -60,7 +60,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: OTHER TAGS
-    subtitle: Artworks by medium or other classifications
+    subtitle: Artworks by medium or other labels
     items:
       - type: Label
         label: DRAWING
