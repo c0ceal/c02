@@ -22,9 +22,7 @@ sections:
       | 2015 | BFA - Ringling College of Art + Design, Sarasota, FL            |
       | 2014 | AICAD New York Studio Residency Program, New York, NY           |
 
-
-
-      #### SELECT SOLO/TWO PERSON EXHIBITIONS
+      #### SELECT SOLO/TWO-PERSON EXHIBITIONS
 
     elementId: ''
     styles:
