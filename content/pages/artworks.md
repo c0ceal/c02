@@ -39,6 +39,9 @@ sections:
       - type: Label
         label: '2014'
         url: ''
+      - type: Label
+        label: EARLIER WORKS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
