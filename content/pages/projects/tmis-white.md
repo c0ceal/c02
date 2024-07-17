@@ -6,7 +6,7 @@ client: '"Touch Me I’m Sick (Red I)" [2016]'
 description: 'Vintage football jersey, thread, nails, unbleached muslin'
 featuredImage:
   type: ImageBlock
-  url: /images/149246804638.jpg
+  url: /images/149246891448.jpg
   altText: ''
   caption: ''
   elementId: ''
