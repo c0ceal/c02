@@ -10,7 +10,7 @@ sections:
         label: '2024'
         url: ''
       - type: Label
-        label: React
+        label: '2023'
         url: ''
       - type: Label
         label: Microsoft Office
