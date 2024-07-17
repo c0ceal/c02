@@ -75,7 +75,7 @@ sections:
         label: MFA-THESIS
         url: ''
       - type: Label
-        label: BFA THESIS
+        label: BFA-THESIS
         url: ''
       - type: Label
         label: FIBER-TEXTILE
