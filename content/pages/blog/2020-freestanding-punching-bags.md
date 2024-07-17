@@ -19,3 +19,6 @@ media:
   caption: 'Freestanding Punching Bags, 2020 / Oil pastel on paper'
   elementId: ''
 ---
+*Freestanding Punching Bags*, 2020
+
+Oil pastel on paper
