@@ -27,6 +27,21 @@ sections:
       - type: Label
         label: '2018'
         url: ''
+      - type: Label
+        label: '2017'
+        url: ''
+      - type: Label
+        label: '2016'
+        url: ''
+      - type: Label
+        label: '2015'
+        url: ''
+      - type: Label
+        label: '2014'
+        url: ''
+      - type: Label
+        label: EARLIER WORKS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
