@@ -27,6 +27,9 @@ sections:
       - type: Label
         label: '2018'
         url: ''
+      - type: Label
+        label: '2017'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
