@@ -10,8 +10,8 @@ media:
     Touch Me I’m Sick (Blue and Red), 2016Vintage football jersey, thread,
     nails, unbleached muslin
   caption: >-
-    Touch Me I’m Sick (Blue and Red), 2016Vintage football jersey, thread,
-    nails, unbleached muslin
+    Touch Me I’m Sick (White), 2016Vintage football jersey, thread, nails,
+    unbleached muslin
   elementId: ''
 bottomSections: []
 addTitleSuffix: false
