@@ -16,7 +16,7 @@ sections:
         label: '2022'
         url: ''
       - type: Label
-        label: Next.js
+        label: '2021'
         url: ''
       - type: Label
         label: Netlify
