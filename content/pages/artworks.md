@@ -75,7 +75,7 @@ sections:
         label: MFA THESIS
         url: ''
       - type: Label
-        label: Netlify
+        label: BFA THESIS
         url: ''
       - type: Label
         label: Pancakes
