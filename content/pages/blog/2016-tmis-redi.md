@@ -5,7 +5,7 @@ date: '2024-07-17'
 excerpt: ''
 media:
   type: ImageBlock
-  url: /images/149246827853.jpg
+  url: /images/149246804638.jpg
   altText: >-
     Touch Me I’m Sick (Blue), 2016Vintage football jersey, thread, nails,
     unbleached muslin
