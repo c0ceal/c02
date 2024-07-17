@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/149246827853.jpg
+  url: /images/2016-tmis-redandblue.jpg
   altText: ''
   caption: ''
   elementId: ''
