@@ -60,7 +60,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: OTHER
-    subtitle: The section subtitle
+    subtitle: Artworks by medium
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
