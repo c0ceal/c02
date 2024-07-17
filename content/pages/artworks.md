@@ -66,7 +66,7 @@ sections:
         label: DRAWING
         url: ''
       - type: Label
-        label: React
+        label: SCULPTURE
         url: ''
       - type: Label
         label: Microsoft Office
