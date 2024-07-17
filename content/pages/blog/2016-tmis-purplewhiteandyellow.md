@@ -10,8 +10,8 @@ media:
     Touch Me I’m Sick (Purple, White, and Yellow), 2016Vintage football jersey,
     thread, nails, unbleached muslin
   caption: >-
-    Touch Me I’m Sick (Green and White), 2016Vintage football jersey, thread,
-    nails, unbleached muslin
+    Touch Me I’m Sick (Purple, White, and Yellow), 2016Vintage football jersey,
+    thread, nails, unbleached muslin
   elementId: ''
 bottomSections: []
 addTitleSuffix: false
