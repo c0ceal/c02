@@ -3,7 +3,7 @@ type: PageLayout
 title: Artworks
 sections:
   - type: LabelsSection
-    title: Skills
+    title: CHRONOLOGICAL
     subtitle: The section subtitle
     items:
       - type: Label
