@@ -69,7 +69,7 @@ sections:
         label: SCULPTURE
         url: ''
       - type: Label
-        label: VIDEO - NEW MEDIA
+        label: VIDEO-NEW_MEDIA
         url: ''
       - type: Label
         label: MFA THESIS
