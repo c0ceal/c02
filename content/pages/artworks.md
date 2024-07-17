@@ -72,7 +72,7 @@ sections:
         label: VIDEO-NEW_MEDIA
         url: ''
       - type: Label
-        label: MFA THESIS
+        label: MFA-THESIS
         url: ''
       - type: Label
         label: BFA THESIS
