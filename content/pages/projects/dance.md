@@ -6,7 +6,7 @@ client: ''
 description: '"Dance" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669629428.jpg
+  url: /images/141669605798.jpg
   altText: ''
   caption: ''
   elementId: ''
