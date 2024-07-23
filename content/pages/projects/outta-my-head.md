@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: levi
+title: out
 date: '2016-01-01'
 client: ''
 description: '"Outta My Head" [2016]'
