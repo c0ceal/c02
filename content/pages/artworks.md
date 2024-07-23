@@ -26,7 +26,7 @@ sections:
         url: ''
       - type: Label
         label: '2018'
-        url: ''
+        url: /2018
       - type: Label
         label: '2017'
         url: /2017
