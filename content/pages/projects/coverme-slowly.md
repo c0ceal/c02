@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Concrete on vintage polyester jersey, muslin, steel wire
+Concrete on vintage polyester jersey, muslin, crushed clam shells, steel wire
