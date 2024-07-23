@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Various athletic meshes, mosquito netting, satin, silk, clothes hangers, fishing line
+Wool felt, athletic mesh, nails, chain, clothes hanger, lamé
