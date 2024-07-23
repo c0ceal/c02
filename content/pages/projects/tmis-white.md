@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Various polyester athletic meshes, mosquito netting, satin, silk, clothes hangers, fishing line
+Vintage football jersey, thread, nails, unbleached muslin
