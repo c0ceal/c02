@@ -3,7 +3,7 @@ type: ProjectLayout
 title: isthatyou
 date: '2017-01-01'
 client: ''
-description: '"Touch Me I’m Sick (Green and White)" [2016]'
+description: '"Is That You, Is This Me?" [2017]'
 featuredImage:
   type: ImageBlock
   url: /images/149246871343.jpg
