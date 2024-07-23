@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: go-go
+title: dance
 date: '2016-01-01'
 client: ''
 description: '"Go-go" [2016]'
