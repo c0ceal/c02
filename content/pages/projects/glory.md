@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/141669605798.jpg
+  url: /images/171241907118.jpg
   altText: ''
   caption: ''
   elementId: ''
