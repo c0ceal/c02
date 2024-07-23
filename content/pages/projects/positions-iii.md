@@ -6,7 +6,7 @@ client: ''
 description: '"Positions III" [2017]'
 featuredImage:
   type: ImageBlock
-  url: /images/172309860433.jpg
+  url: /images/171242486593.jpg
   altText: ''
   caption: ''
   elementId: ''
