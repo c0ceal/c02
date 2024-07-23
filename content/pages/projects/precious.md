@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Platinum silicone, silver nipple ring, silver charm, silver chain
+Platinum silicone, silver nipple ring, silver charm, silver chain (detail shot below)
+
+![](/images/171835485398_1.jpg)
