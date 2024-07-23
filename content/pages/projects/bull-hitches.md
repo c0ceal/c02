@@ -6,7 +6,7 @@ client: ''
 description: '"Bull Hitches" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669623183.jpg
+  url: /images/171242323753.jpg
   altText: ''
   caption: ''
   elementId: ''
