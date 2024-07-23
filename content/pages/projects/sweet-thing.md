@@ -6,7 +6,7 @@ client: ''
 description: '"Sweet Thing" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669629428.jpg
+  url: /images/152967272443.jpg
   altText: ''
   caption: ''
   elementId: ''
