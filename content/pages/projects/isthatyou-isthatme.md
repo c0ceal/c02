@@ -6,7 +6,7 @@ client: ''
 description: '"Is That You, Is This Me?" [2017]'
 featuredImage:
   type: ImageBlock
-  url: /images/149246871343.jpg
+  url: /images/172309860433.jpg
   altText: ''
   caption: ''
   elementId: ''
