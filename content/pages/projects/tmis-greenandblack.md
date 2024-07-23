@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: tmis-greenandblack
 date: '2016-01-01'
 client: ''
 description: '"Touch Me I’m Sick (White)" [2016]'
