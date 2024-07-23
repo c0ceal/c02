@@ -3,7 +3,7 @@ type: ProjectLayout
 title: tmis-bgw
 date: '2016-01-01'
 client: ''
-description: '"Touch Me I’m Sick (Green and Black)" [2016]'
+description: '"Touch Me I’m Sick (Blue, Gold, and White)" [2016]'
 featuredImage:
   type: ImageBlock
   url: /images/149205637563.jpg
