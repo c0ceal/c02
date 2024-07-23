@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Wool felt, wool roving, athletic mesh, nails
+Rawhide, animal fat and plaster bandages, epoxy resin, metal rings, nylon rope, U-bracket, nails
