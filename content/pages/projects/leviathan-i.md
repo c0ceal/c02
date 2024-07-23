@@ -6,7 +6,7 @@ client: ''
 description: 'Still from "Leviathan I" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669629428.jpg
+  url: /images/141669847728.jpg
   altText: ''
   caption: ''
   elementId: ''
