@@ -6,7 +6,7 @@ client: ''
 description: '"A Case of You" [2017]'
 featuredImage:
   type: ImageBlock
-  url: /images/172309860433.jpg
+  url: /images/171241980378.jpg
   altText: ''
   caption: ''
   elementId: ''
