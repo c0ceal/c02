@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Vintage football jersey, thread, nails, unbleached muslin
+Multi-channel sound installation, looping found and recorded audio, headphones, shotgun mic, two speakers
