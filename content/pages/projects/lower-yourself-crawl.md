@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: lower
+title: ''
 date: '2016-01-01'
 client: ''
 description: '"Lower Yourself, Crawl" [2016]'
