@@ -6,7 +6,7 @@ client: ''
 description: '"To Please" [2017]'
 featuredImage:
   type: ImageBlock
-  url: /images/172309860433.jpg
+  url: /images/172310183878.png
   altText: ''
   caption: ''
   elementId: ''
