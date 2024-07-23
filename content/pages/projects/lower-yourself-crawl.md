@@ -3,7 +3,7 @@ type: ProjectLayout
 title: lower
 date: '2016-01-01'
 client: ''
-description: '"Go-go" [2016]'
+description: '"Lower Yourself, Crawl" [2016]'
 featuredImage:
   type: ImageBlock
   url: /images/141669629428.jpg
