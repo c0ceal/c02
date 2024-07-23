@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Wool felt, athletic mesh, nails, chain, clothes hanger, lamé
+Vintage football jerseys, steel chain, grommets, thread, steel straps (detail shot below)
+
+![](/images/152967231858.jpg)
