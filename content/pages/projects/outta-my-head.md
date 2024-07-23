@@ -6,7 +6,7 @@ client: ''
 description: '"Outta My Head," [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669847728.jpg
+  url: /images/172309893083.png
   altText: ''
   caption: ''
   elementId: ''
