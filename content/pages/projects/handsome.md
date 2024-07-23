@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Flocking, silkscreened black ink, muslin, black thread, nails
+Flocking, silkscreened black ink, muslin, black thread, nails (installation shot below)
+
+![](/images/172310002418_0.jpg)
