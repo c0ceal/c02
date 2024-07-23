@@ -1,0 +1,24 @@
+---
+type: ProjectLayout
+title: pos
+date: '2016-01-01'
+client: ''
+description: '"Positions" [2016]'
+featuredImage:
+  type: ImageBlock
+  url: /images/152967722093.jpg
+  altText: ''
+  caption: ''
+  elementId: ''
+media:
+  type: ImageBlock
+  url: /images/152967722093.jpg
+  altText: ''
+  caption: ''
+  elementId: ''
+bottomSections: []
+addTitleSuffix: true
+metaTags: []
+colors: colors-b
+---
+Embossing on paper
