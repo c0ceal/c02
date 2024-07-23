@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Multi-channel sound installation, looping found and recorded audio, headphones, shotgun mic, two speakers
+Found audio of cruising scenes in porn and film, sound exciters, public restroom, amplifier
