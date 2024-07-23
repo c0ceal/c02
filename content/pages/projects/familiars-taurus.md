@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Vintage football jersey, thread, nails, unbleached muslin
+Various athletic meshes, mosquito netting, satin, silk, clothes hangers, fishing line
