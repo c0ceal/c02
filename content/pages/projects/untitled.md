@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Lambskin, tattoo ink, India ink, body hair, matte medium, oxidized nails
+Lambskin, tattoo ink, India ink, body hair, matte medium, oxidized nails (detail shot below)
+
+![](/images/171835562878_1.jpg)
