@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/171241907118.jpg
   altText: ''
-  caption: 'Thread, Vaseline and rubber cement on latex, grommets, nails'
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
