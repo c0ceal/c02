@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Multi-channel sound installation, looping found and recorded audio, headphones, shotgun mic, two speakers
+Silicone and shellac on polyester, grouted ceramic tile
