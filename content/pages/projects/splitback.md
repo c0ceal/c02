@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: split
+title: ''
 date: '2016-01-01'
 client: ''
 description: '"Splitback" [2016]'
