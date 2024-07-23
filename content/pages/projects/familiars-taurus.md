@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: familiars-taurus
+title: ''
 date: '2016-01-01'
 client: ''
 description: '"Familiars (Taurus)" [2016]'
