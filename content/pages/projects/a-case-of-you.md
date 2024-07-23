@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Multi-channel sound installation, looping found and recorded audio, headphones, shotgun mic, two speakers
+Gatorade bottles filled with saliva, artificial turf, looping audio of spitting
