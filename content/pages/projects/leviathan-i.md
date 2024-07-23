@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Wool felt, athletic mesh, nails, chain, clothes hanger, lamé
+Video, athletic mesh, nails
