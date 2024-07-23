@@ -3,7 +3,7 @@ type: ProjectLayout
 title: levi
 date: '2016-01-01'
 client: ''
-description: '"Go-go" [2016]'
+description: '"Leviathan I" [2016]'
 featuredImage:
   type: ImageBlock
   url: /images/141669629428.jpg
