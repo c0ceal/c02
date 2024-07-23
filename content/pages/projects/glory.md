@@ -21,4 +21,4 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Cashmere jersey knit, various athletic meshes, wool felt, nickel chain, fishing line
+Thread, Vaseline and rubber cement on latex, grommets, nails
