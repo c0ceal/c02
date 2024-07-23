@@ -6,7 +6,7 @@ client: ''
 description: '"Go-go" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669572183.jpg
+  url: /images/141669629428.jpg
   altText: ''
   caption: ''
   elementId: ''
