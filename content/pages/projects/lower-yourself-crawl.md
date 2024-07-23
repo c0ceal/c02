@@ -56,4 +56,7 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Steel chain, steel straps, headphones, looping audio
+Steel chain, steel straps, headphones, looping audio (installation and detail shot below)![](/images/149247200113.jpg)
+
+![](/images/149247243203.jpg)
+
