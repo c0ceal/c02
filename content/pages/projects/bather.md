@@ -6,7 +6,7 @@ client: ''
 description: '"Bather" [2016]'
 featuredImage:
   type: ImageBlock
-  url: /images/141669629428.jpg
+  url: /images/141669618398.jpg
   altText: ''
   caption: ''
   elementId: ''
