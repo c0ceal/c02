@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Vintage jock strap, table salt, Epsom salt, oxidized nails, shellac
+Vintage jock strap, table salt, Epsom salt, oxidized nails, shellac (detail shot below)
+
+![](/images/171835689418_1.jpg)
