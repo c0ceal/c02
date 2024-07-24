@@ -21,6 +21,5 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Air vent, digital audio, speaker, LED light (detail shot below)
+Cast lard, paraffin wax, synthetic rubber
 
-![](/images/190183469228_0.jpg)
