@@ -23,4 +23,10 @@ colors: colors-b
 ---
 Cast lard, wax, fat, rawhide, LED lights, steel sheeting, brackets (installation shot below)
 
-![](/images/190164913433_0.png)
+![](/images/190164913433_1.jpg)
+
+![](/images/190164913433_2.jpg)
+
+![](/images/190164913433_3.jpg)
+
+![](/images/190164913433_4.jpg)
