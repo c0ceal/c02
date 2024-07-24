@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: '"Closet Rod" [2018]'
+title: '"Sweetpea, Sweetheart" [2018]'
 date: '2018-01-01'
 client: ''
 description: ''
