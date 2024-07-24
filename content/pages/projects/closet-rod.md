@@ -6,7 +6,7 @@ client: ''
 description: '"Closet Rod" [2018]'
 featuredImage:
   type: ImageBlock
-  url: /images/190183469228_1.jpg
+  url: /images/190183435028_0.jpg
   altText: ''
   caption: ''
   elementId: ''
