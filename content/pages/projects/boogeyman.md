@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/190164736273_0.png
+  url: /images/190164771633.jpg
   altText: ''
   caption: ''
   elementId: ''
