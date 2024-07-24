@@ -21,6 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Sound from analog vibrating motor, mixed-metal rods, metal brackets, wiring (installation shot below)
+Looping digital video, audio, analog television (installation shot below)
 
-![](/images/190183435028_1.jpg)
+![](/images/190164736273_1.jpg)
