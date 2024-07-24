@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: 'Still from "Leviathan I" [2016]'
 date: '2016-01-01'
 client: ''
 description: ''
