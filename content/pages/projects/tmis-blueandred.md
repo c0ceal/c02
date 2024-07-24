@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ''
 date: '2016-01-01'
 client: ''
-description: '"Touch Me I’m Sick (Blue and Red)" [2016]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/2016-tmis-redandblue.jpg
