@@ -3,7 +3,7 @@ type: ProjectLayout
 title: pileup
 date: '2017-01-01'
 client: ''
-description: '"Pileup" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171243399253.jpg
