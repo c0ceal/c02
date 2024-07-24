@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: screencap_0106
+title: '"screencap_0106" [2018]'
 date: '2018-01-01'
 client: ''
-description: '"screencap_0106" [2018]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/172310764693.jpg
