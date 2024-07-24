@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: ''
+title: '"Familiars (Taurus)" [2016]'
 date: '2016-01-01'
 client: ''
-description: '"Familiars (Taurus)" [2016]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/141669572183.jpg
