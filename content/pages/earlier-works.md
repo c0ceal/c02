@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: '2024'
+title: Earlier Works
 sections:
   - type: FeaturedProjectsSection
     subtitle: 2024 (Click image for more information)
