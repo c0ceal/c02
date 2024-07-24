@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: closetrod
+title: '"Closet Rod" [2018]'
 date: '2018-01-01'
 client: ''
-description: '"Closet Rod" [2018]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/190183435028_0.jpg
