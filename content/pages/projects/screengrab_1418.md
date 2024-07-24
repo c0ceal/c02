@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Screengrab_1418
 date: '2018-01-01'
 client: ''
-description: '"Screengrab_1418" [2018]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/172310594873.jpg
