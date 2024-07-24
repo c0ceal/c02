@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: isthatyou
+title: '"Is That You, Is This Me?" [2017]'
 date: '2017-01-01'
 client: ''
-description: '"Is That You, Is This Me?" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/172309860433.jpg
