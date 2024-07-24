@@ -21,6 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Looping digital video, audio, analog television (installation shot below)
+Looping digital video, audio, analog television, concrete (installation shot below)
 
 ![](/images/190164736273_1.jpg)
