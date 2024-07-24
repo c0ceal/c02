@@ -21,6 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Looping digital video, audio, analog television (installation shot below)
+Artist’s clothes, concrete, pink light gels, gravel, concrete pigment, shells, foam, steel wire, spray paint, iron-on patch (detail and installation shot below)
 
-![](/images/190164736273_1.jpg)
+![](/images/190164834988_1.jpg)![](/images/190164834988_2.jpg)
