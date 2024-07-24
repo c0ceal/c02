@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: melt
+title: '"Melt" [2017]'
 date: '2017-01-01'
 client: ''
-description: '"Melt" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171242374793.jpg
