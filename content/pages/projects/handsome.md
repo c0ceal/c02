@@ -3,7 +3,7 @@ type: ProjectLayout
 title: handsome
 date: '2017-01-01'
 client: ''
-description: '"Handsome" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/172310002418_1.jpg
