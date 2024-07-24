@@ -21,6 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Looping digital video, audio, analog television, concrete (installation shot below)
+Cast lard, wax, fat, rawhide, LED lights, steel sheeting, brackets (installation shot below)
 
-![](/images/190164736273_1.jpg)
+![](/images/190164913433_0.png)
