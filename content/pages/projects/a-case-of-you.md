@@ -3,7 +3,7 @@ type: ProjectLayout
 title: acaseofyou
 date: '2017-01-01'
 client: ''
-description: '"A Case of You" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171241980378.jpg
