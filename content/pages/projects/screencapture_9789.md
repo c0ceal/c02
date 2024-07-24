@@ -6,7 +6,7 @@ client: ''
 description: '"screencap_0106" [2018]'
 featuredImage:
   type: ImageBlock
-  url: /images/172310764693.jpg
+  url: /images/172310379763.jpg
   altText: ''
   caption: ''
   elementId: ''
