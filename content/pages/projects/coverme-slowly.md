@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: coverme-slowly
+title: '"Cover Me, Slowly" [2017]'
 date: '2017-01-01'
 client: ''
 description: ''
