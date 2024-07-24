@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: positions iii
+title: '"Positions III" [2017]'
 date: '2017-01-01'
 client: ''
 description: ''
