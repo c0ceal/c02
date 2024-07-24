@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: ''
+title: '"Touch Me I’m Sick (Blue)" [2016]'
 date: '2016-01-01'
 client: ''
-description: '"Touch Me I’m Sick (Blue)" [2016]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/149246827853.jpg
