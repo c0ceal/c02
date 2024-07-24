@@ -26,10 +26,10 @@ sections:
         url: ''
       - type: Label
         label: '2018'
-        url: ''
+        url: /2018
       - type: Label
         label: '2017'
-        url: ''
+        url: /2017
       - type: Label
         label: '2016'
         url: /2016
