@@ -3,7 +3,7 @@ type: ProjectLayout
 title: honey
 date: '2017-01-01'
 client: ''
-description: '"Honey" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171835600813.jpg
