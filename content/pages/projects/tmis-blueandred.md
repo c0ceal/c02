@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: '"Touch Me I’m Sick (Blue and Red)" [2016]'
 date: '2016-01-01'
 client: ''
 description: ''
