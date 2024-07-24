@@ -19,7 +19,7 @@
         "letterSpacing": "normal"
     },
     "h2": {
-        "size": "lg",
+        "size": "3xl",
         "weight": "normal",
         "decoration": "none",
         "case": "capitalize",
