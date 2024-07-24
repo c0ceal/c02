@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: acaseofyou
+title: othervoices
 date: '2018-01-01'
 client: ''
 description: '"Other Voices, Other Rooms" [2018]'
