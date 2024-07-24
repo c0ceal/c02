@@ -21,4 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Gatorade bottles filled with saliva, artificial turf, looping audio of spitting
+Air vent, digital audio, speaker, LED light (detail shot below)
+
+![](/images/190183469228_0.jpg)
