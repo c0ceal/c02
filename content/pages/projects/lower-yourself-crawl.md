@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: ''
+title: '"Lower Yourself, Crawl" [2016]'
 date: '2016-01-01'
 client: ''
-description: '"Lower Yourself, Crawl" [2016]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/149247263283.jpg
