@@ -3,7 +3,7 @@ type: PageLayout
 title: Earlier Works
 sections:
   - type: FeaturedProjectsSection
-    subtitle: 2024 (Click image for more information)
+    subtitle: Earlier Works (Click image for more information)
     actions:
       - type: Link
         label: See all projects
