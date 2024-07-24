@@ -3,7 +3,7 @@ type: ProjectLayout
 title: othervoices
 date: '2018-01-01'
 client: ''
-description: '"Other Voices, Other Rooms" [2018]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/190183469228_1.jpg
