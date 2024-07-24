@@ -3,7 +3,7 @@ type: ProjectLayout
 title: positions iii
 date: '2017-01-01'
 client: ''
-description: '"Positions III" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171242486593.jpg
