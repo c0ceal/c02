@@ -3,7 +3,7 @@ type: ProjectLayout
 title: screencap_0106
 date: '2018-01-01'
 client: ''
-description: '"Other Voices, Other Rooms" [2018]'
+description: '"screencap_0106" [2018]'
 featuredImage:
   type: ImageBlock
   url: /images/190183469228_1.jpg
