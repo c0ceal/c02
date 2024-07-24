@@ -1,9 +1,9 @@
 ---
 type: ProjectLayout
-title: precious
+title: '"Precious" [2017]'
 date: '2017-01-01'
 client: ''
-description: '"Precious" [2017]'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/171835485398_0.jpg
