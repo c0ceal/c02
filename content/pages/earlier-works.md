@@ -1,0 +1,44 @@
+---
+type: PageLayout
+title: Earlier Works
+sections:
+  - type: FeaturedProjectsSection
+    subtitle: Earlier Works (Click image for more information)
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /artworks
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects: []
+    colors: colors-b
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+metaTitle: ''
+addTitleSuffix: true
+metaTags: []
+colors: colors-b
+---
