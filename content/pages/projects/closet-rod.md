@@ -21,6 +21,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-b
 ---
-Air vent, digital audio, speaker, LED light (detail shot below)
+Sound from analog vibrating motor, mixed-metal rods, metal brackets, wiring (installation shot below)
 
-![](/images/190183469228_0.jpg)
+![](/images/190183435028_1.jpg)
