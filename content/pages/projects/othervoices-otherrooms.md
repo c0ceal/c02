@@ -6,7 +6,7 @@ client: ''
 description: '"Other Voices, Other Rooms" [2018]'
 featuredImage:
   type: ImageBlock
-  url: /images/171241980378.jpg
+  url: /images/190183469228_1.jpg
   altText: ''
   caption: ''
   elementId: ''
