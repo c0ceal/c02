@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: acaseofyou
-date: '2017-01-01'
+date: '2018-01-01'
 client: ''
 description: '"A Case of You" [2017]'
 featuredImage:
